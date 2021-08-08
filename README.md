@@ -12,6 +12,8 @@ reactのベース 要調整
 以下のコマンド
 `react-sample`は任意のアプリ名
 
+docker-compose.ymlの記述もアプリ名に合わせて変更
+
 ```
 docker-compose run --rm node sh -c "npm install -g create-react-app && create-react-app react-sample"
 ```
