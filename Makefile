@@ -11,4 +11,4 @@ down:
 	docker-compose down
 
 sh:
-  docker-compose run --rm node sh
+	docker-compose run --rm node sh
